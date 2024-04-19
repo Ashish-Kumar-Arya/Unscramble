@@ -27,4 +27,7 @@
     <string name="exit">Exit</string>
     <string name="play_again">Play Again</string>
     <string name="wrong_guess">Wrong Guess!</string>
+    <string name="reveal_ans">Reveal answer</string>
+    <string name="correctAns">Correct answer</string>
+    <string name="next">Next</string>
 </resources>
